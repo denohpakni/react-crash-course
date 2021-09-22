@@ -12,9 +12,4 @@ npm start
 
 
 #### after initialising git.
-
-`   git add .
-git branch -M main
-git remote add origin https://github.com/link.git
-git commit -m "first commit"
-git push -u origin main
+Just use [github desktop app](https://desktop.github.com/) to push stuff there. hehehe!
